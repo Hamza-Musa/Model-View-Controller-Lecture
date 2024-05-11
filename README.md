@@ -1,5 +1,5 @@
 # Model-View-Controller Explained
-By Isaiah Sanchez
+By Hamza Musa
 
 This article serves to explain the MVC in a beginner friendly manner and uses a Game of Thrones analogy to hopefully help make it more clear.
 
@@ -46,39 +46,3 @@ Ruby on Rails, Django, Codeigniter, Laravel, Express, Angular and Zend.
 ![11](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/73198c20-a54f-4a30-b129-fbbe319a4ba1)
 
 ________________________________________________________________________________________________________________________________________________
-
-OK Now let's end it with an analogy in the form of a story. Hopefully this gives you another way to conceptualize this system.
-
-We are in the world of Game of Thrones, a fantasy world with medieval-type characters. 
-
-![12](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/c50f8114-4c30-47da-963b-743aca925ebc)
-
-
-Therefore, he makes his requests to his workers beneath him, and they fetch him any stories or knowledge he wants. Today, he wants to learn everything there is to know about the history of Large Blue Dragons. So, here's how it goes.
-
-
-![13](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/dad847f0-260d-44f1-972a-75f76a399c8c)
-
-His job is to run to a room in the castle called the Controller room, filled with many workers who all go by the title Castle Controller.
-
-![14](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/7241d6aa-8292-4152-a281-9fdba2d7589e)
-
-Each Castle Controller specializes in understanding exactly what the king writes on his notes (especially since the king has terrible penmanship and grammar). Any info that the king needs always comes through the Castle Controllers (some people say the Castle Controllers are the real leaders of the castle, but don't tell the king that).
-
-Once the Castle Controller has figured out exactly what the king wants, he goes into the next part of the castle called the Model Room. 
-
-![15](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/42316e6c-e1c3-4bb7-935c-e8ec0869c1c8)
-
-The Castle Controller would do it himself, but he's a better leader than a reader. The Bookworm Model searches all the books for the info that was requested.
-![16](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/06e34e57-d0a6-40bd-a71d-2aa63b8bd385)
-
-The process is over right? Not quite. The Castle Controller can't give the boring scribbled scroll to King User. King User would fall asleep trying to read that.
-
-![17](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/caa1351a-366a-4634-a0ab-ec5249c5078c)
-
-Once again, the Castle Controller would do it himself, but he was never a good artist growing up. 
-
-![18](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/5eadb528-f65d-4852-a99b-9c09211342a7)
-
-
-Hopefully this story and article provided a fun way to understand the MVC. Thanks and happy coding!

@@ -1,13 +1,13 @@
 # Model-View-Controller Explained
 By Hamza Musa
 
-This article serves to explain the MVC in a beginner friendly manner and uses a Game of Thrones analogy to hopefully help make it more clear.
+This article serves to explain the MVC in a beginner-friendly manner 
 
 
 ![1](https://github.com/isaiahasanchez/Model-View-Controller-Explained/assets/124002003/0db54815-8be7-4485-8079-d1a121c43989)
 
 
-Now lets talk about each component. 
+Now let's talk about each component. 
 
 
 ![2](https://github.com/isaiahasanchez/Model-View-Controller-Explained/assets/124002003/23167fab-f2c5-4894-91ae-32ad41bac844)
@@ -25,7 +25,7 @@ Now lets talk about each component.
 ![6](https://github.com/isaiahasanchez/Understanding-Model-View-Controller-Framework/assets/124002003/31326048-5f0a-4291-a591-1078a2975d4b)
 
 
-It is needed as a way to organize the interactions between the user, server and database so that system processes can be completed in an organized and streamlined manner. Benefits include code reusability, allows test driven development and full control over HTML and URLs. Overall, it also allows code at a bigger scale to be worked on by multiple developers without breaking or blocking one another’s work. 
+It is needed to organize the interactions between the user, server and database so that system processes can be completed in an organized and streamlined manner. Benefits include code reusability, test-driven development and full control over HTML and URLs. Overall, it also allows multiple developers to work on code at a bigger scale without breaking or blocking one another’s work. 
 
 There are other approaches as well including MVVM, HMVC, and MVP but MVC is one of the most popular
 

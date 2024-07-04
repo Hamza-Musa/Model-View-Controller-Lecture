@@ -1,7 +1,7 @@
 # Model-View-Controller Explained
 By Hamza Musa
 
-This article serves to explain the MVC in a beginner-friendly manner 
+This was a presentation I gave explaining MVC in a beginner-friendly manner!
 
 
 ![1](https://github.com/isaiahasanchez/Model-View-Controller-Explained/assets/124002003/0db54815-8be7-4485-8079-d1a121c43989)
